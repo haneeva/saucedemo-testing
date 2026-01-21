@@ -1,6 +1,0 @@
-base\BaseTest.class
-resources\TestData.class
-com\example\AppTest.class
-tests\LoginTest.class
-pages\LoginPage.class
-pages\HomePage.class
